@@ -76,4 +76,25 @@ footer{
 	padding: 20px 0;
 }
 
+/*information.html  css*/
+.info-title{
+	background: #222222;
+	color: #fff;
+	padding: 40px 190px;
+}
+#information{
+	padding: 40px 0;
+	background: #eee;
+	margin-top: 245px;
+}
+.infor-content{
+	background-color: #fff;
+	margin: 0 0 20px 0;
+	box-shadow: 2px 2px 3px #ccc;
+}
+.infor-content img{
+	margin:12px 0;
+}
+
+
 
